@@ -32,7 +32,7 @@
 				</tr>	
 			</tbody>
 		</table>
-		<form action="index.html">
+		<form action="index.md">
        	 <center><input type="submit" name="gallery" value="Back"></center>    
     	</form>
 	</center>	
