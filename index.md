@@ -81,7 +81,7 @@
             </tbody>
         </table>
     </p>
-    <form action="myProject02.html">
+    <form action="myProject02.md">
         <center><input type="submit" name="gallery" value="Gallery"></center>    
     </form>
     <hr>
